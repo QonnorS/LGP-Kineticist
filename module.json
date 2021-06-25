@@ -1,0 +1,22 @@
+{
+        "name": "lgp-kineticist",
+        "title": "Legendary Kineticist",
+        "description": "A basic implementation of Legendary Games' Kineticist for use in PF2e",
+        "author": "Qonnors",
+        "version": "0.0.1",
+        "minimumCoreVersion": "0.8.7",
+        "compatibleCoreVersion":"0.8.7",
+	"packs": [
+	{
+		"name": "lgp-kineticist",
+		"label": "Legendary Kineticist",
+		"path": "packs/lgp-kineticist.db",
+		"entity": "Item",
+		"system": "pf2e",
+		"module": "lgp-kineticist"
+	}
+    ],
+	"url": "https://github.com/QonnorS/LGP-Kineticist/",
+	"manifest": "https://raw.githubusercontent.com/QonnorS/LGP-Kineticist/main/module.json",
+	"download": "https://github.com/QonnorS/LGP-Kineticist/archive/0.0.1.zip"
+}
